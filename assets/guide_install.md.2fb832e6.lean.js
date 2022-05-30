@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as n,a as s}from"./app.c7288d98.js";const f='{"title":"\u5B89\u88C5","description":"","frontmatter":{},"headers":[],"relativePath":"guide/install.md"}',t={},c=s("",5),o=[c];function r(p,i,d,_,l,h){return n(),e("div",null,o)}var g=a(t,[["render",r]]);export{f as __pageData,g as default};
